@@ -13,11 +13,12 @@ body{
 
 
 .notes{
-    background-color: white;
+    background-color: transparent;
     box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
     margin: 20px;
     width: 400px;
     height: 400px;
+    
 
 }
 
