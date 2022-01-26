@@ -1,3 +1,3 @@
 
-### This is an Note App you can write and see your text on markdown vesion 
+### This is a note app that you can write and view your text on markdown vesion 
 !["project Screen shot"](screen.png)
